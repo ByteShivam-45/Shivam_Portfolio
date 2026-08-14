@@ -2,6 +2,10 @@
 
 A modern, responsive personal portfolio website showcasing my work as a Computer Science student and Python/AI developer.
 
+## 🌐 Live Portfolio
+
+[![Live Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Website-7c8795?style=for-the-badge)](https://shivam-portfolio-plum-five.vercel.app/)
+
 ## 📋 Overview
 
 This is a clean, minimalist portfolio website built with HTML and CSS featuring:
